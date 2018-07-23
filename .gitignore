@@ -1,4 +1,3 @@
-App/SurfaceAnnotateApp/bin/x64/Release/UnityPlayer_UAP_x64_Release_dotnet.pdb
-App/SurfaceAnnotateApp/bin/x86/Master/UnityPlayer_UAP_x86_Master_dotnet.pdb
-App/SurfaceAnnotateApp/bin/ARM/Debug/UnityPlayer_UAP_ARM_Debug_dotnet.pdb
-App/SurfaceAnnotateApp/bin/ARM/Debug/UnityPlayer.dll
+*.dll
+*.pdb
+*.bin
